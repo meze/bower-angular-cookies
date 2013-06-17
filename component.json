@@ -3,6 +3,6 @@
   "version": "1.1.5",
   "main": "./angular-cookies.js",
   "dependencies": {
-    "angular": "1.1.5"
+    "angular" : "PatternConsulting/bower-angular#1.1.5"
   }
 }
